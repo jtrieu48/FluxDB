@@ -46,9 +46,3 @@ Please select an option:
 Enter database name: db1
 
 ---
-
-Ex. (Query Thread Search): 
-
-Enter a document. EX: { "name" : "michael" }
-
-{"player_name":"Travis Knight"}
