@@ -1,4 +1,5 @@
-# FluxDB by Justin Trieu, Michael Vong, and Arzhang Valadkhani
+# FluxDB
+by Justin Trieu, Michael Vong, and Arzhang Valadkhani
 
 Description: 
 - A Document Database application that can processes JSON Files
