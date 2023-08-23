@@ -34,7 +34,7 @@ Menu is accessible by numbers from the keyboard (0-9):
 6. Query Threaded
 7. Quit
 
-1
+  1
 
 Please select an option:
 1. Add a document       
