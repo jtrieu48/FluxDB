@@ -40,7 +40,9 @@ Please select an option:
 1. Add a document       
 2. Add a collection     
 3. Add a database
+   
 3
+
 Enter database name: db1
 
 Ex. (Query Thread Search): 
