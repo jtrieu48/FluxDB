@@ -44,5 +44,3 @@ Please select an option:
 3
 
 Enter database name: db1
-
----
