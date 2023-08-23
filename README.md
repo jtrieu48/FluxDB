@@ -34,18 +34,14 @@ Menu is accessible by numbers from the keyboard (0-9):
 6. Query Threaded
 7. Quit
 
-Submenus options are selected by number as well:
-
-Ex. 1. Add
 1
+
 Please select an option:
 1. Add a document       
 2. Add a collection     
 3. Add a database
 3
 Enter database name: db1
-
-When prompted for names, letters, numbers, and symbols are available.
 
 Ex. (Query Thread Search): 
 
