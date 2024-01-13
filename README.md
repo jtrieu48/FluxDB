@@ -49,5 +49,7 @@ When prompted for names, letters, numbers, and symbols are available. Enter Docu
 
 
 Ex. (Query Thread Search):
+
 Enter a document. EX: {"name":"michael"}
+
 {"player_name":"Travis Knight"}
