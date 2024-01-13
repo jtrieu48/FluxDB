@@ -51,4 +51,4 @@ Ex. (Query Thread Search):
 
 Enter a document. EX: { "name" : "michael" }
 
-{"player_name":"Travis Knight"}v
+{"player_name":"Travis Knight"}
