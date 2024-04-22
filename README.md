@@ -1,11 +1,10 @@
 # FluxDB
 > Authors: Justin Trieu, Michael Vong, and Arzhang Valadkhani
 
-## Description: 
-- A Document Database application that can processes JSON Files
-- Follows MongoDB's implementation of organization through Databases, Collections, and Documents
-- Encapsulates a small subet of features that noSQL Databases, such as MongoDB, offer. 
-- Emulates CRUD Operations, Sequential Searching, and Threaded Searching
+A Document Database application that processes JSON files to organization into Databases, Collections and Documents. 
+
+Encapsulates a subset of features that noSQL Databases, such as MongoDB, offer. 
+Emulates CRUD Operations, Sequential Searching, and Threaded Searching
 
 ## Software Prequisties:
 
