@@ -14,8 +14,8 @@
 
 ## Compilation
 
-- ``Run Build Task`` ``(CTRL+SHIFT+B)``
-- Build with C/C++:g++.exe active build file
+- ``(CTRL+SHIFT+B)`` to Run Build Task 
+- Build with C/C++:g++.exe build active file
 
 ## Execution
 
