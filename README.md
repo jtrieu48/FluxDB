@@ -19,7 +19,7 @@
 
 ## Execution
 
-- .\main
+- '.\main'
 
 ## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rXmA7K-qKHE/0.jpg)](https://www.youtube.com/watch?v=rXmA7K-qKHE)
