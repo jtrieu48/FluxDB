@@ -12,14 +12,12 @@
 - C++17
 - Utilizes Rapidjson parser, found at: https://github.com/Tencent/rapidjson
 
-## Usage
-
-Command to Compile: 
+## Compilation
 
 - Terminal -> Run Build Task (CTRL+SHIFT+B)
 - Build with C/C++:g++.exe active build file
 
-Command to Run:
+## Execution
 
 - .\main
 
